@@ -32,12 +32,12 @@
 <table width="100%">
         <tr>
             <td>
-                <a href="https://github.com/BSF0124/60s_Hero">
+                <a href="https://github.com/BSF0124/60Second_Hero">
                     <img src="https://github.com/BSF0124/60s_Hero/blob/main/Thumbnail.png"/>
                 </a>
             </td>
             <td>
-                <a href="https://github.com/BSF0124/60s_Hero">
+                <a href="https://github.com/BSF0124/60Second_Hero">
                     <img src="https://github.com/BSF0124/60s_Hero/blob/main/Thumbnail.png"/>
                 </a>
             </td>
@@ -45,22 +45,22 @@
         <tr>
             <td>
                 <div align="center">
-                <a href="https://github.com/BSF0124/60s_Hero">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BSF0124&repo=60s_Hero&border_radius=10"/>
+                <a href="https://github.com/BSF0124/60Second_Hero">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BSF0124&repo=60Second_Hero&border_radius=10"/>
                 </a>
                 </div>
             </td>
             <td>
                 <div align="center">
-                <a href="https://github.com/BSF0124/60s_Hero">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BSF0124&repo=60s_Hero&border_radius=10"/>
+                <a href="https://github.com/BSF0124/60Second_Hero">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BSF0124&repo=60Second_Hero&border_radius=10"/>
                 </a>
                 </div>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/BSF0124/60s_Hero">
+                <a href="https://github.com/BSF0124/60Second_Hero">
                     <img src="https://github.com/BSF0124/60s_Hero/blob/main/Thumbnail.png"/>
                 </a>
             </td>
@@ -68,8 +68,8 @@
         <tr>
             <td>
                 <div align="center">
-                <a href="https://github.com/BSF0124/60s_Hero">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BSF0124&repo=60s_Hero&border_radius=10"/>
+                <a href="https://github.com/BSF0124/60Second_Hero">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BSF0124&repo=60Second_Hero&border_radius=10"/>
                 </a>
                 </div>
             </td>
