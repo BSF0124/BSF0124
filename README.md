@@ -33,12 +33,12 @@
         <tr>
             <td>
                 <a href="https://github.com/BSF0124/60Second_Hero">
-                    <img src="https://github.com/BSF0124/60s_Hero/blob/main/Thumbnail.png"/>
+                    <img src="https://github.com/BSF0124/60Second_Hero/blob/main/Src/Thumbnail.png"/>
                 </a>
             </td>
             <td>
                 <a href="https://github.com/BSF0124/60Second_Hero">
-                    <img src="https://github.com/BSF0124/60s_Hero/blob/main/Thumbnail.png"/>
+                    <img src="https://github.com/BSF0124/60Second_Hero/blob/main/Src/Thumbnail.png"/>
                 </a>
             </td>
         </tr>
@@ -61,7 +61,7 @@
         <tr>
             <td>
                 <a href="https://github.com/BSF0124/60Second_Hero">
-                    <img src="https://github.com/BSF0124/60s_Hero/blob/main/Thumbnail.png"/>
+                    <img src="https://github.com/BSF0124/60Second_Hero/blob/main/Src/Thumbnail.png"/>
                 </a>
             </td>
         </tr>
