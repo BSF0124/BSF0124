@@ -60,16 +60,16 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/BSF0124/60Second_Hero">
-                    <img src="https://github.com/BSF0124/60Second_Hero/blob/main/Src/Thumbnail.png"/>
+                <a href="[https://github.com/BSF0124/60Second_Hero](https://github.com/BSF0124/CalmdownCardGame-Refactor)">
+                    <img src=""/>
                 </a>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                <a href="https://github.com/BSF0124/60Second_Hero">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BSF0124&repo=60Second_Hero&border_radius=10"/>
+                <a href="[https://github.com/BSF0124/60Second_Hero](https://github.com/BSF0124/CalmdownCardGame-Refactor)">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BSF0124&repo=CalmdownCardGame-Refactor&border_radius=10"/>
                 </a>
                 </div>
             </td>
